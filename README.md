@@ -10,7 +10,7 @@ This project is simple ToDo tracker. Quickly capture and retrieve your lists and
 	
 ## Technologies
 Project is created with:
-* Flask 
+* Flask 0.12.x 
 	
 ## Setup
 To run this project, install it locally using npm:
